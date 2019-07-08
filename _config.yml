@@ -7,7 +7,7 @@ header_pages:
  - about.md
  - experiences.md
 
-footer: 'follow me on <a target="_blank" href="https://github.com/sovannarithcheav">Github</a> or <a target="_blank" href="https://twitter.com/che_sovannarith">twitter</a>'
+footer: 'follow me on <a class="fab fa-github" target="_blank" href="https://github.com/sovannarithcheav">Github</a> or <a target="_blank" href="https://twitter.com/che_sovannarith">twitter</a>'
 
 # style: light # dark (default) or light
 
